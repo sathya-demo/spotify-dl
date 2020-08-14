@@ -95,3 +95,4 @@ to run the tests with [Make](https://www.gnu.org/software/make/)
 Feel free to raise any bugs/issues under Github issues. Pull requests are also more than welcome. You can reach me on twitter at [@sathyabhat](https://twitter.com/sathyabhat) or drop an email [sathya@sathyasays.com](mailto:sathya@sathyasays.com)
 
 # minor
+# minor 2

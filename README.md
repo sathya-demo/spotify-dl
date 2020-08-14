@@ -98,3 +98,4 @@ Feel free to raise any bugs/issues under Github issues. Pull requests are also m
 // # minor 2
 // # patch
 // # minor 3
+// # major

@@ -96,3 +96,4 @@ Feel free to raise any bugs/issues under Github issues. Pull requests are also m
 
 # minor
 # minor 2
+# patch
